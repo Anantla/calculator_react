@@ -29,6 +29,7 @@ function App() {
 
   return (
     <div className="calc-app">
+      hello
       <from>
         <input type="text" value={result} ref={inputRef} />
       </from>
